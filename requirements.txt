@@ -1,0 +1,13 @@
+streamlit
+groq
+langchain-groq
+langchain_community
+duckduckgo-search
+tavily-python
+elevenlabs
+fpdf
+python-docx
+python-dotenv
+beautifulsoup4
+youtube-transcript-api
+pypdf
