@@ -69,7 +69,7 @@ When a user uploads a PDF or pastes a YouTube link, the system extracts the text
 ### Logical Flow Diagram
 *Decision-making flow showing how the AI processes input, researches, drafts, and fact-checks before exporting.*
 
-![Logical Flow Diagram](Demo/Logical%20Flow%20Diagram%20(2).png)
+![Logical Flow Diagram](Demo/Logical_Flow_Diagram.png)
 
 ---
 
